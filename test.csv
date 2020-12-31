@@ -1,0 +1,4 @@
+id,symbol,name,usd,usd_market_cap,usd_24h_vol,usd_24h_change,last_updated_at,rank
+01coin,zoc,01coin,0.00490557,52422.931126728814,16841.499427005678,2.2482528241751565,1609413889,1
+0-5x-long-bitcoin-sv-token,bsvhalf,0.5X Long Bitcoin SV Token,6164.5,0.0,524.35237,,1607072397,7
+0-5x-long-compound-usdt-token,cusdthalf,0.5X Long Compound USDT Token,5735.88,0.0,48.29609127050333,,1609047729,13
